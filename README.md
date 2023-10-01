@@ -45,3 +45,6 @@ View your final score and choose to replay or quit the quiz.
 
 
 Enjoy testing your frontend web development knowledge with IndiGG QuizNinja!
+
+Link to this repo: https://github.com/anshchauhan1504/IndiGG-Frontend-Assignment-Ansh-Chauhan
+Link to hosted site: https://anshchauhan1504.github.io/IndiGG-Frontend-Assignment-Ansh-Chauhan/
